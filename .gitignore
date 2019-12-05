@@ -1,0 +1,9 @@
+#Ignore everything except unreal assets
+*.*
+!*.uasset
+!*.umap
+!.gitignore
+!.gitattributes
+
+#Ignore maps built data
+*_BuiltData.uasset
